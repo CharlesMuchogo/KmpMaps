@@ -29,6 +29,8 @@ Update the following line in your `res/values/strings.xml` file:
 
 ## Screenshots
 
-<img src="screenshots/iOS.png" width="120"/> 
-<img src="screenshots/android.png" width="120"/> 
+<div style="display: flex; gap: 10px;">
+  <img src="screenshots/iOS.png" width="240"/>
+  <img src="screenshots/android.png" width="240"/>
+</div>
 
